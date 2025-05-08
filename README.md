@@ -54,4 +54,4 @@ It loads receipt images, performs OCR, extracts structured data, classifies item
 
 - [.NET 8.0](https://dotnet.microsoft.com/) or newer
 - Windows OS
-- If you want to use the default `GroqCloudDataExtractionService`, you mmust have defined an environment variable `GROQCLOUD_API_KEY` containing your GroqCloud API key.
+- If you want to use the default `GroqCloudDataExtractionService`, you must define an environment variable `GROQCLOUD_API_KEY` containing your GroqCloud API key. More information about the GroqCloud API can be found on official site https://console.groq.com/.
