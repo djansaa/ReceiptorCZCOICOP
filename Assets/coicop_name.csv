@@ -1,0 +1,366 @@
+coicop;name
+98.1.1.0;Slevové a dárkové kupony
+98.1.2.0;Sleva na celý nákup
+98.2.1.0;Zálohy a vratky za lahve
+98.2.2.0;Vratné kauce
+98.2.9.0;Zálohy a vratky za ostat.zboží
+98.3.1.0;Splátky hypoték/půjček na HB
+98.3.2.0;Splátky hypoték a půjček na JN
+98.3.3.0;Splátky finančního leasingu
+98.3.4.0;Nákup na splátky
+98.3.9.0;Splátky ostat. úvěrů a půjček
+98.4.1.0;Penzijní připojištění
+98.4.2.0;Životní pojištění se spořením
+98.4.3.0;Stavební spoření
+98.4.4.0;Nákup cenných papírů
+98.4.5.0;Vklady na bezhotovostní účty
+98.4.9.0;Ost. formy spoření aj. vklady
+98.5.1.0;Výživné na děti a býv.partnera
+98.5.9.0;Ostatní peněžní transfery osob
+98.6.1.0;Daň z nemovitosti
+98.6.9.0;Ostatní daně
+98.7.0.0;Pravidel.příspěvky nezisk.org.
+98.8.1.0;Výstavba a koupě nemovitosti
+98.8.2.0;Rekonstrukce nemovitosti
+98.9.1.0;Potř.a služby pro hosp.zvířata
+98.9.2.0;Potř.a služby pro rostl.výrobu
+98.9.9.0;Ostatní (nespotřební) výdaje
+99.0.0.0;Nezjištěno
+01.1.1.1;Obiloviny
+01.1.1.2;Mouky z obilovin
+01.1.1.3;Chléb a pekařské výrobky
+01.1.1.4;Snídaňové cereálie
+01.1.1.5;Těstoviny
+01.1.1.9;Ostatní výrobky z obilovin
+01.1.2.1;Živá zvířata
+01.1.2.2;Maso, čerstvé, chlazené nebo zmrazené
+01.1.2.3;Maso, sušené, solené, ve slaném nálevu nebo uzené
+01.1.2.4;Droby a ostatní části zvířat
+01.1.2.5;Výrobky z masa, drobů a ostatních částí zvířat
+01.1.3.1;Ryby, živé, čerstvé, chlazené nebo zmrazené
+01.1.3.2;Ryby, sušené, solené, ve slaném nálevu nebo uzené
+01.1.3.3;Výrobky z ryb
+01.1.3.4;Mořské plody, živé, čerstvé, chlazené nebo zmrazené
+01.1.3.5;Mořské plody, sušené, solené, ve slaném nálevu nebo uzené
+01.1.3.6;Výrobky z mořských plodů
+01.1.3.7;Droby z ryb a mořských plodů
+01.1.4.1;Mléko, syrové a plnotučné
+01.1.4.2;Mléko, odtučněné
+01.1.4.3;Smetana a ostatní mléko živočišného původu
+01.1.4.4;Mléko neživočišného původu
+01.1.4.5;Sýry
+01.1.4.6;Jogurty a podobné výrobky
+01.1.4.7;Mléčné dezerty a nápoje
+01.1.4.8;Vejce
+01.1.4.9;Ostatní mléčné výrobky
+01.1.5.1;Rostlinné oleje
+01.1.5.2;Máslo a ostatní tuky z mléka
+01.1.5.3;Margaríny a podobné výrobky
+01.1.5.9;Ostatní živočišné oleje a tuky
+01.1.6.1;Datle, fíky a tropické ovoce, čerstvé
+01.1.6.2;Citrusové ovoce, čerstvé
+01.1.6.3;Peckoviny a jádroviny, čerstvé
+01.1.6.4;Bobuloviny, čerstvé
+01.1.6.5;Ostatní ovoce, čerstvé
+01.1.6.6;Ovoce, zmrazené
+01.1.6.7;Ovoce, sušené
+01.1.6.8;Ořechy, loupané nebo neloupané
+01.1.6.9;Ovoce a ořechy, mleté nebo jinak upravené
+01.1.7.1;Listová, košťálová a řapíkatá zelenina, čerstvá nebo chlazená
+01.1.7.2;Plodová zelenina, čerstvá nebo chlazená
+01.1.7.3;Zelené luštěniny, čerstvé nebo chlazené
+01.1.7.4;Ostatní zelenina, čerstvá nebo chlazená
+01.1.7.5;Brambory a ostatní hlízy, čerstvé nebo chlazené
+01.1.7.6;Luštěniny, sušené
+01.1.7.7;Zelenina, brambory a ostatní hlízy, sušené
+01.1.7.8;Zelenina, brambory a ostatní hlízy, zmrazené
+01.1.7.9;Zelenina, luštěniny, brambory a ostatní hlízy, mleté nebo jinak upravené
+01.1.8.1;Třtinový a řepný cukr
+01.1.8.2;Ostatní cukr a náhražky cukru
+01.1.8.3;Džemy, marmelády a podobné výrobky, med
+01.1.8.4;Ořechová másla, ořechové pasty a ořechová pyré
+01.1.8.5;Čokoláda, kakao a jiné kakaové výrobky
+01.1.8.6;Led, zmrzlina a sorbet
+01.1.8.9;Ostatní cukrovinky
+01.1.9.1;Hotová jídla a polotovary
+01.1.9.2;Dětská výživa
+01.1.9.3;Sůl, ochucovadla a omáčky
+01.1.9.4;Koření, kuchyňské bylinky a semínka
+01.1.9.9;Ostatní potravinářské výrobky jinde neuvedené
+01.2.1.0;Ovocné a zeleninové šťávy
+01.2.2.0;Káva a kávové náhražky
+01.2.3.0;Čaj
+01.2.4.0;Kakaové nápoje
+01.2.5.0;Minerální a stolní vody
+01.2.6.0;Limonády
+01.2.9.0;Ostatní nealkoholické nápoje
+01.3.0.0;Služby zpracování surovin pro potraviny a nealkoholické nápoje
+02.1.1.0;Destiláty a likéry
+02.1.2.1;Víno z vinných hroznů
+02.1.2.2;Ostatní vína
+02.1.3.0;Pivo
+02.1.9.0;Ostatní alkoholické nápoje
+02.2.0.0;Služby pro výrobu alkoholických nápojů
+02.3.0.1;Cigarety
+02.3.0.2;Doutníky
+02.3.0.9;Ostatní tabákové výrobky
+02.4.0.0;Narkotika
+03.1.1.0;Oděvní materiály
+03.1.2.1;Oděvy pro muže a chlapce
+03.1.2.2;Oděvy pro ženy a dívky
+03.1.2.3;Oděvy pro děti mladší dvou let
+03.1.2.4;Školní uniformy
+03.1.3.1;Oděvní doplňky
+03.1.3.2;Textilní galanterie
+03.1.4.1;Čištění oděvů
+03.1.4.2;Opravy, šití a půjčování oděvů
+03.2.1.1;Obuv pro muže
+03.2.1.2;Obuv pro ženy
+03.2.1.3;Obuv pro děti mladší třinácti let
+03.2.2.0;Čištění, opravy a půjčování obuvi
+04.1.1.0;Nájemné za hlavní bydlení
+04.1.2.1;Nájemné za další bydlení
+04.1.2.2;Nájemné za garáž a ostatní nájemné
+04.2.1.0;Imputované nájemné za hlavní bydlení
+04.2.2.0;Ostatní imputované nájemné
+04.3.1.1;Materiály pro drobné opravy a údržbu bydlení
+04.3.1.2;Zabezpečovací zařízení
+04.3.2.0;Služby pro drobné opravy, údržbu a zabezpečení bydlení
+04.4.1.1;Dodávka vody prostřednictvím sítí (vodné)
+04.4.1.2;Dodávka vody jiným způsobem
+04.4.2.0;Sběr a odvoz odpadu
+04.4.3.1;Odvádění odpadních vod prostřednictvím kanalizace (stočné)
+04.4.3.2;Odvádění odpadních vod jiným způsobem
+04.4.4.1;Služby provozu a údržby v domech s více bytovými jednotkami
+04.4.4.9;Ostatní služby související s bydlením jinde neuvedené
+04.5.1.0;Elektřina
+04.5.2.1;Plyn ze sítě
+04.5.2.2;Plyn v tlakových nádobách
+04.5.3.0;Kapalná paliva
+04.5.4.1;Uhlí, uhelné brikety, rašelina a rašelinové brikety
+04.5.4.2;Palivové dříví, včetně briket a pelet
+04.5.4.3;Dřevěné uhlí
+04.5.4.9;Ostatní pevná paliva
+04.5.5.0;Ostatní energie pro vytápění a ochlazování
+05.1.1.1;Nábytek do domácnosti
+05.1.1.2;Zahradní a kempinkový nábytek
+05.1.1.3;Osvětlovací zařízení
+05.1.1.4;Zařízení domácnosti a volně položené koberce
+05.1.2.0;Opravy, instalace a půjčování nábytku a zařízení domácnosti
+05.2.1.1;Dekorační tkaniny, závěsy a záclony
+05.2.1.2;Ložní prádlo a lůžkoviny
+05.2.1.3;Stolní a koupelnový textil
+05.2.1.9;Ostatní bytový textil
+05.2.2.0;Opravy, půjčování a šití bytového textilu
+05.3.1.1;Velké kuchyňské spotřebiče
+05.3.1.2;Velké spotřebiče pro praní prádla
+05.3.1.3;Vyhřívací a klimatizační přístroje
+05.3.1.4;Čisticí přístroje
+05.3.1.9;Ostatní velké domácí spotřebiče
+05.3.2.1;Malé spotřebiče pro vaření a zpracování potravin
+05.3.2.2;Malé spotřebiče pro přípravu nápojů
+05.3.2.9;Ostatní malé domácí spotřebiče
+05.3.3.0;Opravy, instalace a půjčování domácích spotřebičů
+05.4.0.1;Skleněné, keramické a porcelánové potřeby pro domácnost
+05.4.0.2;Příbory a nožířské výrobky
+05.4.0.3;Kuchyňské potřeby
+05.4.0.4;Opravy a půjčování skleněných, stolních a kuchyňských potřeb pro domácnost
+05.5.1.0;Nástroje a zařízení s motorovým pohonem
+05.5.2.1;Mechanické nářadí a nástroje
+05.5.2.2;Různé vybavení
+05.5.3.0;Opravy a půjčování nářadí, nástrojů a vybavení pro dům a zahradu
+05.6.1.1;Výrobky pro čištění a údržbu domácnosti
+05.6.1.9;Ostatní spotřební zboží pro domácnost
+05.6.2.1;Služby domácího personálu
+05.6.2.9;Ostatní služby pro domácnost
+06.1.1.1;Léky, vakcíny a ostatní farmaceutické výrobky
+06.1.1.2;Bylinná léčiva a homeopatické přípravky
+06.1.2.1;Potřeby pro zdravotní diagnostiku
+06.1.2.2;Potřeby pro ochranu a prevenci
+06.1.2.3;Zdravotnické potřeby pro osobní použití
+06.1.3.1;Pomůcky pro zrak
+06.1.3.2;Pomůcky pro sluch a komunikaci
+06.1.3.3;Pomůcky pro pohyb a jiné pomůcky
+06.1.4.0;Opravy, půjčování a údržba zdravotnických potřeb a pomůcek
+06.2.1.1;Služby očkování
+06.2.1.9;Ostatní služby preventivní zdravotní péče
+06.2.2.1;Preventivní stomatologická péče
+06.2.2.9;Ostatní ambulantní stomatologická péče
+06.2.3.1;Ambulantní léčebné a rehabilitační služby
+06.2.3.2;Dlouhodobé služby ambulantní zdravotní péče
+06.3.1.0;Ústavní léčebné a rehabilitační služby
+06.3.2.0;Ústavní dlouhodobá zdravotní péče
+06.4.1.0;Služby zdravotnické diagnostiky a laboratoří
+06.4.2.0;Služby pohotovostní přepravy pacientů a zdravotnické záchranné služby
+07.1.1.1;Nové automobily
+07.1.1.2;Ojeté automobily
+07.1.2.0;Motocykly
+07.1.3.0;Jízdní kola
+07.1.4.0;Povozy tažené zvířaty
+07.2.1.1;Pneumatiky
+07.2.1.2;Díly pro osobní dopravní prostředky
+07.2.1.3;Příslušenství pro osobní dopravní prostředky
+07.2.2.1;Nafta
+07.2.2.2;Benzín
+07.2.2.3;Ostatní pohonné hmoty pro osobní dopravní prostředky
+07.2.2.4;Maziva, včetně olejů
+07.2.3.0;Údržba a opravy osobních dopravních prostředků
+07.2.4.1;Parkování
+07.2.4.2;Dálniční známky a mýtné
+07.2.4.3;Autoškoly, řidičská oprávnění a technické kontroly
+07.2.4.4;Pronájem osobních dopravních prostředků
+07.3.1.1;Železniční osobní doprava
+07.3.1.2;Osobní doprava tramvajemi a metrem
+07.3.2.1;Autobusová osobní doprava
+07.3.2.2;Taxislužba a pronájem osobních dopravních prostředků s řidičem
+07.3.2.3;Doprava studentů školními autobusy
+07.3.2.9;Ostatní silniční osobní doprava
+07.3.3.1;Vnitrostátní letecká osobní doprava
+07.3.3.2;Mezinárodní letecká osobní doprava
+07.3.4.0;Námořní a říční osobní doprava
+07.3.5.0;Kombinovaná osobní doprava
+07.3.6.0;Ostatní služby osobní dopravy
+07.4.1.1;Listovní služby
+07.4.1.2;Balíkové služby
+07.4.9.1;Stěhovací a skladovací služby
+07.4.9.2;Rozvoz zakoupeného zboží
+08.1.1.0;Zařízení pro pevné telefonní linky
+08.1.2.0;Mobilní telefonní zařízení
+08.1.3.1;Počítače, notebooky a tablety
+08.1.3.2;Jiná zařízení a příslušenství pro zpracování informací
+08.1.4.0;Zařízení pro příjem, záznam a reprodukci zvuku a obrazu
+08.1.5.0;Záznamová média, nenahraná
+08.1.9.1;Ostatní informační a telekomunikační zařízení
+08.1.9.2;Ostatní informační a telekomunikační příslušenství
+08.2.0.0;Software
+08.3.1.0;Služby pevných telefonních linek
+08.3.2.0;Mobilní telefonní služby
+08.3.3.0;Služby internetového připojení a ukládání dat
+08.3.4.0;Balíčky telekomunikačních služeb
+08.3.5.0;Opravy a půjčování informačního a telekomunikačního zařízení a příslušenství
+08.3.9.1;Televizní a rozhlasové poplatky
+08.3.9.2;Streamovací služby a pronájem audiovizuálního obsahu
+08.3.9.9;Ostatní informační a telekomunikační služby jinde neuvedené
+09.1.1.1;Fotoaparáty a kamery
+09.1.1.2;Příslušenství pro fotoaparáty a kamery
+09.1.1.3;Optické přístroje
+09.1.2.1;Obytné vozy, karavany a přívěsy
+09.1.2.2;Letadla a horkovzdušné balóny
+09.1.2.3;Lodě a jiná zařízení pro vodní sporty
+09.1.2.4;Koně a příslušenství pro koně
+09.1.2.9;Ostatní velké zboží dlouhodobé spotřeby pro rekreaci
+09.2.1.1;Videohry, herní software a konzole
+09.2.1.2;Ostatní hry, hračky a potřeby pro zájmové činnosti
+09.2.1.3;Předměty pro oslavy
+09.2.2.1;Vybavení pro sport
+09.2.2.2;Vybavení pro kempování a venkovní rekreaci
+09.3.1.1;Výrobky pro zahradu
+09.3.1.2;Rostliny, semena a květiny
+09.3.2.1;Domácí zvířata
+09.3.2.2;Potřeby pro zvířata
+09.4.1.0;Půjčování a opravy fotografických a kinematografických zařízení a optických přístrojů
+09.4.2.1;Půjčování, údržba a opravy obytných vozů, karavanů a přívěsů
+09.4.2.2;Půjčování, údržba a opravy ostatního velkého zboží dlouhodobé spotřeby pro rekreaci
+09.4.3.1;Půjčování herního softwaru a předplatné on-line her
+09.4.3.2;Půjčování a opravy her, hraček a potřeb pro zájmové činnosti
+09.4.4.0;Půjčování a opravy vybavení pro sport, kempování a venkovní rekreaci
+09.4.5.0;Veterinární a ostatní služby pro zvířata
+09.4.6.1;Služby pro rekreaci a volný čas
+09.4.6.2;Služby související s aktivním sportováním
+09.4.6.3;Vstupné na sportovní akce
+09.4.7.0;Loterie a hazardní hry
+09.5.1.0;Hudební nástroje
+09.5.2.0;Záznamová média s audiovizuálním obsahem
+09.6.1.0;Kina, divadla a koncerty
+09.6.2.0;Muzea, knihovny a jiná kulturní zařízení
+09.6.3.0;Fotografické služby
+09.6.9.0;Ostatní kulturní služby
+09.7.1.1;Učebnice a vzdělávací knihy
+09.7.1.9;Ostatní knihy
+09.7.2.1;Noviny
+09.7.2.2;Časopisy a periodika
+09.7.3.0;Jiné tiskoviny
+09.7.4.0;Papírnické zboží, psací a kreslicí potřeby
+09.8.0.0;Organizovaná dovolená a zájezdy
+10.1.0.1;Vzdělávání v raném dětství
+10.1.0.2;Primární vzdělávání
+10.2.0.0;Sekundární vzdělávání
+10.3.0.0;Postsekundární neterciární vzdělávání
+10.4.0.0;Terciární vzdělávání
+10.5.0.1;Individuální výuka a doučování
+10.5.0.9;Ostatní vzdělávání nedefinované podle úrovně
+11.1.1.1;Restaurace, kavárny a podobná zařízení s obsluhou
+11.1.1.2;Restaurace, kavárny a podobná zařízení bez obsluhy
+11.1.2.1;Školní jídelny, kantýny a menzy
+11.1.2.9;Ostatní jídelny a kantýny
+11.2.0.1;Hotely, motely, penziony a podobná ubytovací zařízení
+11.2.0.2;Rekreační střediska, kempy, hostely a podobná ubytovací zařízení
+11.2.0.3;Internáty a vysokoškolské koleje
+11.2.0.9;Ostatní ubytovací zařízení
+12.1.1.0;Životní a úrazové pojištění
+12.1.2.0;Pojištění související se zdravím
+12.1.3.0;Pojištění související s bydlením
+12.1.4.1;Pojištění osobních dopravních prostředků
+12.1.4.2;Cestovní pojištění
+12.1.9.0;Ostatní pojištění
+12.2.1.0;Finanční zprostředkovatelské služby nepřímo měřené
+12.2.2.0;Bankovní poplatky
+12.2.9.1;Poplatky za mezistátní transfery peněz
+12.2.9.9;Ostatní finanční služby jinde neuvedené
+13.1.1.1;Elektrické přístroje pro osobní péči
+13.1.1.2;Opravy elektrických přístrojů pro osobní péči
+13.1.2.0;Předměty pro osobní péči
+13.1.3.1;Služby kadeřníků a holičů
+13.1.3.2;Jiné služby pro osobní péči
+13.2.1.1;Klenoty a náramkové hodinky
+13.2.1.2;Opravy a půjčování klenotů a náramkových hodinek
+13.2.2.0;Náboženské a rituální předměty
+13.2.9.1;Předměty pro cestování, pro malé děti a osobní předměty jinde neuvedené
+13.2.9.2;Opravy a půjčování osobních předmětů jinde neuvedených
+13.3.0.1;Dětské jesle a péče o děti
+13.3.0.2;Domovy pro seniory a pro osoby se zdravotním postižením
+13.3.0.3;Služby pro seniory a pro osoby se zdravotním postižením v jejich domácnostech
+13.3.0.9;Ostatní služby sociální péče
+13.9.0.1;Prostituce
+13.9.0.2;Náboženské služby
+13.9.0.9;Ostatní služby jinde neuvedené
+14.1.0.0;Bydlení
+14.2.1.0;Léčiva
+14.2.2.0;Ostatní zdravotnické výrobky
+14.2.3.0;Léčebné a protetické prostředky
+14.2.4.0;Ambulantní lékařská péče
+14.2.5.0;Ambulantní stomatologická péče
+14.2.6.0;Ambulantní zdravotní péče poskytovaná nelékaři
+14.2.7.0;Ústavní zdravotní péče
+14.2.8.0;Ostatní zdravotnické služby
+14.3.1.0;Rekreační a sportovní služby
+14.3.2.0;Kulturní služby
+14.4.1.0;Preprimární a primární vzdělávání
+14.4.2.0;Sekundární vzdělávání
+14.4.3.0;Postsekundární neterciární vzdělávání
+14.4.4.0;Terciární vzdělávání
+14.4.5.0;Vzdělávání nedefinované podle úrovně
+14.4.6.0;Ostatní vzdělávací služby
+14.5.0.0;Sociální péče
+14.6.1.0;Náboženství
+14.6.2.0;Politické strany, odborové a profesní organizace
+14.6.3.0;Ochrana životního prostředí
+14.6.4.0;Služby jinde neuvedené
+15.1.0.0;Bydlení
+15.2.1.0;Léčiva
+15.2.2.0;Ostatní zdravotnické výrobky
+15.2.3.0;Léčebné a protetické prostředky
+15.2.4.0;Ambulantní lékařská péče
+15.2.5.0;Ambulantní stomatologická péče
+15.2.6.0;Ambulantní zdravotní péče poskytovaná nelékaři
+15.2.7.0;Ústavní zdravotní péče
+15.2.8.0;Veřejné zdravotnické služby
+15.3.1.0;Rekreační a sportovní služby
+15.3.2.0;Kulturní služby
+15.4.1.0;Preprimární a primární vzdělávání
+15.4.2.0;Sekundární vzdělávání
+15.4.3.0;Postsekundární neterciární vzdělávání
+15.4.4.0;Terciární vzdělávání
+15.4.5.0;Vzdělávání nedefinované podle úrovně
+15.4.6.0;Vedlejší služby ve vzdělávání
+15.5.0.0;Sociální péče
