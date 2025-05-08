@@ -40,11 +40,11 @@ It loads receipt images, performs OCR, extracts structured data, classifies item
 
 | Package                                                               | Version   | Description                                                     | License    |
 |-----------------------------------------------------------------------|-----------|-----------------------------------------------------------------|------------|
-| [GroqSharp](https://github.com/Sarel-Esterhuizen/GroqSharp)           | 1.1.2     | C# client library for interacting with GroqCloud                | MIT        |
-| [OpenCvSharp4](https://github.com/shimat/opencvsharp)                 | 4.10.0    | .NET wrapper for OpenCV (image processing)                      | Apache 2.0 |
-| [Tesseract](https://github.com/charlesw/tesseract)                    | 5.2.0     | .NET wrapper for tesseract-ocr 5.2.0                            | Apache 2.0 |
-| [Tokenizers.DotNet](https://github.com/sappho192/Tokenizers.DotNet)   | 1.2.0     | .NET wrapper of HuggingFace Tokenizers library                  | MIT        |
-| [TorchSharp](https://github.com/dotnet/TorchSharp)                    | 0.105.0   | .NET library that provides access to the library behind PyTorch | MIT        |
+| [GroqSharp](https://github.com/Sarel-Esterhuizen/GroqSharp)           | 1.1.2     | C# client library for interacting with GroqCloud                | [MIT](license_mit.txt)        |
+| [OpenCvSharp4](https://github.com/shimat/opencvsharp)                 | 4.10.0    | .NET wrapper for OpenCV (image processing)                      | [Apache 2.0](license_apache.txt) |
+| [Tesseract](https://github.com/charlesw/tesseract)                    | 5.2.0     | .NET wrapper for tesseract-ocr 5.2.0                            | [Apache 2.0](license_apache.txt) |
+| [Tokenizers.DotNet](https://github.com/sappho192/Tokenizers.DotNet)   | 1.2.0     | .NET wrapper of HuggingFace Tokenizers library                  | [MIT](license_mit.txt)        |
+| [TorchSharp](https://github.com/dotnet/TorchSharp)                    | 0.105.0   | .NET library that provides access to the library behind PyTorch | [MIT](license_mit.txt)        |
 
 
 
