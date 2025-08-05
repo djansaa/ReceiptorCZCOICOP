@@ -38,7 +38,7 @@ namespace ReceiptorCZCOICOP.Services.ClassificationServices
             // load device (CUDA or CPU)
             _device = cuda.is_available() ? CUDA : CPU;
 
-            // load model
+            // load modelco když 
             _model = torch.jit.load(modelPath).to(_device);
             _model.eval();
 
