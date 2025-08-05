@@ -11,7 +11,7 @@ jobs:
   test:
     runs-on: windows-latest
     env:
-      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      GROQCLOUD_API_KEY: ${{ secrets.GROQCLOUD_API_KEY }}
 
     steps:
       - name: Checkout repository
