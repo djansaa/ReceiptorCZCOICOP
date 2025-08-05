@@ -14,7 +14,7 @@ namespace ReceiptorCZCOICOP.Services.DataExtractionServices
         public GroqCloudDataExtractionService()
         {
             // check if the environment variable is set
-            var apiKey = Environment.GetEnvironmentVariable("GROQCLOUD_API_KEY") ?? throw new InvalidOperationException("GROQ_API_KEY is not defined in environment variables");
+            var apiKey = Environment.GetEnvironmentVariable("GROQCLOUD_API_KEY") ?? throw new InvalidOperationException("GROQCLOUD_API_KEY is not defined in environment variables");
 
             // set the model
             var apiModel = "llama-3.3-70b-versatile";
