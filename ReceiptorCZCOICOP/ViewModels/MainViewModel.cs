@@ -145,7 +145,7 @@ namespace ReceiptorCZCOICOP.ViewModels
                 // data extraction
                 var receipt = await _extract.ExtractDataAsync(vm.RawOcrText);
                 if (receipt != null)
-                    vm.UpdateModel(receipt);      // metoda přidaná v ReceiptObjectViewModel
+                    vm.UpdateModel(receipt);
 
                 // product names classification
                 foreach (var itemVM in vm.ReceiptVm.Items)

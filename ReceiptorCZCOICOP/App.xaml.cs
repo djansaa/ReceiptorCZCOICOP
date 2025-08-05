@@ -29,6 +29,7 @@ namespace ReceiptorCZCOICOP
                 {
                     // remove default providers
                     logging.ClearProviders();
+                    logging.AddConsole();
                 })
                 .ConfigureServices((ctx, services) =>
                 {

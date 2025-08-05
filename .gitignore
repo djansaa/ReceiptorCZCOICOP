@@ -8,7 +8,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
 # Ignore model (> 100MB)
-classifierdata/model.pt
+ReceiptorCZCOICOP/classifierdata/model.pt
 
 # Build results
 [Dd]ebug/

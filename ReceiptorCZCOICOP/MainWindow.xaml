@@ -184,7 +184,7 @@
                                                     </TextBox>
                                                     <TextBox Text="{Binding Value, StringFormat={}{0:F2}}" Width="60" Margin="0,0,5,0"/>
                                                     <TextBox Text="{Binding Coicop}" Width="80" Margin="0,0,5,0" Background="{Binding Confidence, Converter={StaticResource ConfidenceColorConverter}}" IsReadOnly="True"/>
-                                                    <TextBox Text="{Binding Coicop, Converter={StaticResource CoicopNameConverter}}" Width="150" Margin="0,0,0,0" IsReadOnly="True"/>
+                                                    <TextBox Text="{Binding Coicop, Converter={StaticResource CoicopNameConverter}}" Width="500" Margin="0,0,0,0" IsReadOnly="True"/>
                                                 </StackPanel>
                                             </StackPanel>
                                         </DataTemplate>
