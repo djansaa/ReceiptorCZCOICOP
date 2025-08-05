@@ -22,9 +22,6 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
-      - name: Set environment variables
-        run: echo "GROQ_API_KEY=${{ secrets.GROQ_API_KEY }}" >> $env:GITHUB_ENV
-
       - name: Restore dependencies
         run: dotnet restore
 
