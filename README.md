@@ -1,6 +1,6 @@
 # ReceiptorCZCOICOP
 
-[![.NET CI – Tests Passing](https://github.com/djansaa/ReceiptorCZCOICOP/actions/workflows/dotnet-tests.yml/badge.svg)](https://github.com/djansaa/ReceiptorCZCOICOP/actions/workflows/dotnet-tests.yml)
+[![Build + Tests](https://github.com/djansaa/ReceiptorCZCOICOP/actions/workflows/dotnet-tests.yml/badge.svg)](https://github.com/djansaa/ReceiptorCZCOICOP/actions/workflows/dotnet-tests.yml)
 
 **ReceiptorCZCOICOP** is a desktop WPF application designed for automated receipt processing.  
 It loads receipt images, performs OCR, extracts structured data, classifies items into COICOP categories, and allows exporting data to CSV or saving it into a SQLite database. In addition, manual editing and correction of extracted items is supported, including COICOP suggestion and override functionality.
